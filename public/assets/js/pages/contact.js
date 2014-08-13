@@ -8,12 +8,12 @@ var Contact = function () {
 			$(document).ready(function(){
 			  map = new GMaps({
 				div: '#map',
-				lat: -19.4618623,
-				lng: -44.2600615,
+				lat: -23.5580577,
+				lng: -46.6622568,
 			  });
 			   var marker = map.addMarker({
-		            lat: -19.4618623,
-					lng: -44.2600615,
+		            lat: -23.5580577,
+					lng: -46.6622568,
 		            title: 'LIEDER'
 		        });
 			});
